@@ -24,10 +24,7 @@ bip39_tool.py
 english.txt
 
 ---
-
-## Run
-
-```bash
+Run:
 python3 bip39_tool.py
 
 You will see:
@@ -154,3 +151,4 @@ Disclaimer
 
 This tool is provided as is for educational/backup purposes.
 You are responsible for your operational security. Use at your own risk.
+
