@@ -28,6 +28,7 @@ Run:
 python3 bip39_tool.py
 
 You will see:
+
 === BIP39 Offline Tool ===
 1) Validate a 24-word mnemonic
 2) Compute the 24th word from the first 23
@@ -143,7 +144,7 @@ If you need an address previewer for certain paths, build a separate offline too
 
 License
 
-MIT (suggested).
+MIT
 
 ⸻
 
